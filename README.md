@@ -2,4 +2,4 @@
 hello, this is new project.
 
 # name
-jamnesh
+your name
